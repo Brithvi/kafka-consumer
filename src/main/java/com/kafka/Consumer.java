@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 /*
  * @created 06/07/2022 - 11:00 AM
  * @project kafka-consumer
- * @author Prem
+ * @author Brithivi
  */
 @Component
 public class Consumer {
